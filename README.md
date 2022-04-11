@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![bio](https://github-readme-stats.vercel.app/api?username=lizchng&show_icons=true)
+
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=lizchng&layout=compact)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/lizchng/lizchng/main/assets/github-contribution-grid-snake.svg)
