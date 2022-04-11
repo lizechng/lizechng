@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 ![bio](https://github-readme-stats.vercel.app/api?username=lizchng&show_icons=true)
 
 ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=lizchng&layout=compact)
+
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN" /> </div>
