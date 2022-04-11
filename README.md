@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 
 ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=lizchng&layout=compact)
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN" /> </div>
+<!-- <div align="left"> <img src="https://github-profile-trophy.vercel.app/?username=lizchng" /> </div> -->
+<div align="left"> <img src="https://activity-graph.herokuapp.com/graph?username=lizchng&theme=xcode" /> </div>
