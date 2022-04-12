@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 ![bio](https://github-readme-stats.vercel.app/api?username=lizchng&show_icons=true)
 
 ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=lizchng&layout=compact)
-
+![](https://raw.githubusercontent.com/lizchng/lizchng/main/assets/github-contribution-grid-snake.svg)
 <!-- <div align="left"> <img src="https://github-profile-trophy.vercel.app/?username=lizchng" /> </div> -->
 <div align="left"> <img src="https://activity-graph.herokuapp.com/graph?username=lizchng&theme=xcode" /> </div>
