@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- <div align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=lizchng" /> </div> -->
+<div align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=lizchng" /> </div>
 
 
 ![bio](https://github-readme-stats.vercel.app/api?username=lizchng&show_icons=true)
