@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**lizchng/lizchng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lizechng/lizechng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=lizchng" /> </div>
+<div align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=lizechng" /> </div>
 
 
-![bio](https://github-readme-stats.vercel.app/api?username=lizchng&show_icons=true)
+![bio](https://github-readme-stats.vercel.app/api?username=lizechng&show_icons=true)
 
-![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=lizchng&layout=compact)
-![](https://raw.githubusercontent.com/lizchng/lizchng/main/assets/github-contribution-grid-snake.svg)
-<!-- <div align="left"> <img src="https://github-profile-trophy.vercel.app/?username=lizchng" /> </div> -->
-<!-- <div align="left"> <img src="https://activity-graph.herokuapp.com/graph?username=lizchng&theme=xcode" /> </div> -->
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=lizechng&layout=compact)
+![](https://raw.githubusercontent.com/lizechng/lizechng/main/assets/github-contribution-grid-snake.svg)
+<!-- <div align="left"> <img src="https://github-profile-trophy.vercel.app/?username=lizechng" /> </div> -->
+<!-- <div align="left"> <img src="https://activity-graph.herokuapp.com/graph?username=lizechng&theme=xcode" /> </div> -->
